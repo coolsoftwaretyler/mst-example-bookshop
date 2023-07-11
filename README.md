@@ -1,4 +1,7 @@
-# Bookshop example
+# MobX-State-Tree Bookshop example
+
+An example app for [MobX-State-Tree](https://github.com/mobxjs/mobx-state-tree), originally hosted as part of the monorepo there. [See commit history on the old location](https://github.com/mobxjs/mobx-state-tree/commits/master/packages/mst-example-bookshop).
+
 
 ## Features
 
@@ -21,3 +24,5 @@ Based on create-react-app
 yarn install
 yarn start
 ```
+
+Offered as-is, but happy to take pull requests or answer questions. Drop us a PR or issue!
